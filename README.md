@@ -1,6 +1,6 @@
 # Walk Run Classification Dataset
 
-This repository contains a Jupyter notebook focused on the classification task of distinguishing between walking and running activities. The dataset is analyzed through Exploratory Data Analysis (EDA), and various machine learning models are compared for their performance.
+This repository contains a Jupyter notebook focused on the classification task of distinguishing between walking and running activities. The dataset `walkrun.csv` is analyzed through Exploratory Data Analysis (EDA), and various machine learning models are compared for their performance.
 
 ## Content
 
@@ -58,6 +58,10 @@ This repository contains a Jupyter notebook focused on the classification task o
 ## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, please open an issue or create a pull request.
+
+## Contributors
+
+Aswathi T S and Akhil Sebastian
 
 ## License
 
